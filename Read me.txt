@@ -1,0 +1,2 @@
+We used Microsoft SQL Server: 
+Change the connection string in the DBconnection.py file according to your system
